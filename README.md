@@ -16,5 +16,8 @@ A clean, light-themed resume layout built using HTML and SCSS. This project appl
 - Clean typography and section organization
 - SCSS-based styling for scalability
 
-## 📁 Project Structure
+## 🔗 Live Demo
+
+[Click here to view the resume live](https://your-username.github.io/neumorphism-3d-resume/)
+
 
