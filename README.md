@@ -18,7 +18,7 @@ A clean, light-themed resume layout built using HTML and SCSS. This project appl
 
 ## 🔗 Live Demo
 
-[Click here to view the resume live]([Click here to view the resume live](https://aymaq-code.github.io/Neumorphism-3D-Resume/)
+[Click here to view the resume live] (https://aymaq-code.github.io/Neumorphism-3D-Resume/)
 )
 
 
