@@ -175,11 +175,9 @@ body {
     grid-column: 1 / -1;
     padding: 2rem;
     border-radius: 15px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     font-size: 1.4rem;
     color: $dark-color;
+    text-align: center;
 
     .footer-icons {
       display: flex;

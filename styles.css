@@ -168,11 +168,9 @@ body {
   grid-column: 1/-1;
   padding: 2rem;
   border-radius: 15px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   font-size: 1.4rem;
   color: #2d3436;
+  text-align: center;
 }
 .resume__footer .footer-icons {
   display: flex;
